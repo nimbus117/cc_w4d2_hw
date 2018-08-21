@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+  font-family: 'Helvetica'
+}
+
+.center-box {
+  background-color: lightpink;
+  padding: 10px;
+  width: 600px;
+  height: 120px;
+  margin: auto;
+  box-shadow: 0 1px 5px rgba(50, 50, 50, 0.5);
+  text-align: center;
+}
